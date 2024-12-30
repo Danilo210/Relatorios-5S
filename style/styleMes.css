@@ -9,6 +9,10 @@ body{
     -o-background-size: cover;
 }
 
+a{
+    text-decoration: none;
+}
+
 /*------inicio dos estilos das areas--------*/
 .ap {
     padding: 10px;
